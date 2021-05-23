@@ -1,0 +1,336 @@
+469380
+T
+Cho 2 diem phan biet A va B, nhan xet nao sau day la dung:
+Co nhieu duong thang di qua 2 diem A va B.
+Co 1 va chi 1 duong thang khong di qua 2 diem A va B.
+Co 1 duong thang va chi mot duong thang di qua 2 diem A va B.
+Ca 3 cau tren deu sai.
+C
+325597
+T
+Cho 3 diem phan biet A, B, C cung nam tren duong thang a. Ta noi:
+Duong thang a di qua A, B, C.
+A, B, C khong thang hang.
+Duong thang a khong chua A, B, C.
+Ca 3 cau tren deu sai.
+A
+127138
+T
+Hai duong thang phan biet thi co the:
+Trung nhau hoac cat nhau.
+Trung nhau hoac song song.
+Song song hoac cat nhau.
+Cat nhau va song song.
+C
+48977
+L
+Ta nhin thay troi dang nang ngoai canh dong khi?
+Mat troi chieu anh sang thang vao canh dong.
+Mat huong ve phia canh dong.
+Canh dong nam trong vung co anh sang.
+Canh dong hat anh sang mat troi vao mat ta.
+D
+437
+L
+Chum sang hoi tu la chum sang nhu the nao?
+Cac tia sang khong giao nhau tren duong truyen cua chung.
+Cac tia sang giao nhau tren duong truyen cua chung.
+Cac tia sang loe rong tren duong truyen cua chung.
+Cac tia sang loe rong ra, keo dai gap nhau.
+B
+26361
+AV
+Every day, my mother ___________ the washing up with the help of the washing machine.
+has
+does
+makes
+gets
+B
+52278
+L
+Tieng vang la:
+Am phan xa.
+Am phan xa den cung luc voi am phat ra.
+Am phan xa truyen di moi huong, khong nhat thiet phai truyen den tai.
+Am phan xa nghe duoc cach biet voi am phat ra.
+D
+112907
+GDCD
+Cau ca dao, tuc ngu nao noi ve su biet on:
+Uong nuoc nho nguon.
+An qua nho ke trong cay.
+Ton su trong dao.
+Tat ca deu dung.
+D
+229583
+T
+Moi so tu nhien deu co:
+Mot so lien sau duy nhat.
+Mot so lien truoc duy nhat.
+Mot so lien sau va mot so lien truoc.
+Ca 3 cau deu sai.
+A
+197409
+AV
+The wardrobe is _________ the fridge and the bed.
+next
+behind
+between
+front
+C
+128045
+T
+Khi viet them so 3 vao truoc so tu nhien co 3 chu so thi:
+So do tang them 3 don vi.
+So do tang them 30 don vi.
+So do tang them 300 don vi.
+So do tang them 3000 don vi.
+D
+227784
+T
+Tap hop A la tap hop con cua tap hop B neu:
+Tap hop A co it phan tu hon tap hop B.
+Tap hop B co nhieu phan tu hon tap hop A.
+Moi phan tu cua tap hop A deu la phan tu cua tap hop B.
+Tap hop A co nhieu phan tu hon tap hop B.
+C
+305744
+T
+So 33 la ket qua cau phep tinh nao duoi day:
+10 + 11 + 12
+11 + 12 + 13
+9 + 11 + 12
+Khong co ket qua nao dung.
+A
+283942
+L
+Luc nao duoi day la luc dan hoi.
+Trong luong cua mot qua nang.
+Luc hut cua nam cham tac dung len mieng sat.
+Luc day cua lo xa duoi yen xe dap.
+Luc keo cua con trau len cai cay.
+C
+370119
+L
+Nhung dac diem chung ve anh cua mot vat tao boi guong phang la:
+Anh ao, khong hung duoc tren man chan.
+Anh co kich thuoc bang vat.
+Khoang cach tu guong den anh va vat bang nhau.
+Tat ca deu dung.
+D
+363083
+AV
+There __________ no dishwasher in my house.
+are
+was
+is
+were
+C
+357395
+GDCD
+Hoat dong nao the hien hoc sinh khong co muc dich hoc tap:
+Hoc tieng anh thong qua bai hat va phim.
+Hoa bai cu va soan bai moi.
+Bo hoc di choi dien tu.
+Nho ban giang bai kho.
+C
+367041
+L
+Mot vat nhu the nao (dieu kien ve vat) thi mat ta moi co the nhin thay no, chon cau sai:
+Vat phat ra anh sang.
+Vat phai duoc chieu sang.
+Vat khong phat sang va cung khong duoc chieu sang.
+Vat phai du lon va khong cach mat qua xa.
+C
+369058
+AV
+It's very kind of you __________ me with the cooking
+helping
+help
+to help
+helps
+C
+424034
+L
+Tia phan xa tren guong phang nam trong cung mat phang voi:
+Tia toi va duong vuong goc voi tia toi.
+Tia toi va phap tuyen voi guong.
+Duong phap tuyen voi guong va duong vuong goc voi tia toi.
+Tia toi va phap tuyen cua guong tai diem toi.
+D
+420929
+GDCD
+Cau ca dao tuc ngu noi ve duc tinh sieng nang kien tri:
+Chiu kho moi co ma an.
+Kien tha lau cung day to.
+Nguoi co chi thi nen, nha co nen thi vung.
+Tat ca deu dung.
+D
+406705
+AV
+Every morning, my sister gets up early _________ the house.
+to clean
+cleaning
+clean
+cleaned
+A
+464049
+AV
+Nice to see you ......................
+tomorrow
+afternoon
+morning
+again
+D
+663249
+T
+Dieu kien de so tu nhien A chia het cho so tu nhien B voi B khac 0 la:
+A >= B
+A > B.
+A < B.
+Co so tu nhien Q sao cho A = B x Q.
+D
+534249
+T
+Chon cau noi dung trong cac cau sau:
+He thap phan co nhieu chu so.
+He thap phan co 10 chu so.
+He thap phan co 7 ki hieu.
+He thap phan co 10 so.
+B
+508633
+L
+Chon cau tra loi day du nhat; Guong cau lom .......
+co the tao ra anh ao lon hon vat.
+co the tao ra anh that.
+co the tao ra anh ao lon hon vat khi dat gan sat guong, anh that khi vat o xa guong.
+anh hung duoc tren man chan.
+C
+498811
+GDCD
+Doi voi xa hoi, song chan hoa co y nghia nhu the nao:
+Gop phan lam cho xa hoi tuoi dep.
+Gop phan xay dung moi quan he tot dep.
+Gop phan lam giau cho dat nuoc.
+Gop phan bao ve moi truong.
+B
+578274
+L
+Vat nao duoi day khong phai la nguon sang:
+Mat troi.
+Mat trang.
+Ngon nen dang chay.
+Cuc than go dang nong do.
+B
+645598
+GDCD
+Trach nhiem cua con nguoi doi voi thien nhien la gi ?
+Con nguoi can giu gin, bao ve thien nhien.
+Khai thac thien nhien
+Pha hoai thien nhien.
+Lam o nhiem moi truong thien nhien.
+A
+828721
+T
+So 120 la ket qua cua tich nao duoi day:
+4 x 5 x 6
+3 x 5 x 6
+3 x 4 x 6
+5 x 6 x 7
+A
+732473
+L
+Khi chu bao ve go trong, tai ta nghe tieng trong, vat nao da phat ra am?
+Tay chu bao ve go trong.
+Dui trong.
+Mat trong.
+Khong gian xung quanh trong.
+C
+685863
+AV
+I often do my homework ___________ my bedroom.
+on
+in
+under
+near
+B
+678758
+AV
+Will your mom be amazed at your __________ room?
+tidy
+clean
+messy
+small
+C
+700227
+GDCD
+Em dong y voi y kien nao sau day?
+Chi lam nhung viec co loi cho ban than, con loi ich cua nguoi khac thi khong can ban tam.
+Mac du dang bi om, nhung An van den buoi sinh hoat cua lop to chuc.
+Vi troi mua nen ban An da khong di cung lop them Me Viet Nam anh hung.
+An da khong tich cuc trong gio ve sinh lop hoc.
+B
+802089
+AV
+There is ... dog in my house.
+a
+an
+two
+is
+A
+947516
+GDCD
+Thanh ngu noi ve le do la:
+Co cong mai sat co ngay nen kim.
+Di thua ve gui.
+Vat co chay ra nuoc.
+Gop gio thanh bao.
+B
+917597
+GDCD
+Cau tuc nhu: Tren kinh duoi nhuong noi ve dieu gi?
+Song chan hoa voi moi nguoi.
+TInh than doan ket.
+Sieng nang kien tri.
+Tu ren luyen ban than.
+A
+868196
+GDCD
+Y nao khong dung voi tu cham soc suc khoe?
+An uong dieu do du chat dinh duong.
+Hang ngay luyen tap the duc the thao.
+Khong can cham soc suc khoe, bi benh di toi bac si uong thuoc se khoi.
+Phong benh hon chua benh.
+C
+922863
+GDCD
+Hanh vi nao sau day dung:
+THuc hien noi quy cua nha truong.
+Khong gay mat trat tu o benh vien.
+Khong xa rac noi cong cong.
+Tat ca deu dung.
+D
+984620
+T
+Cho tong A = 0+1+2+...+9+10. Ket qua la:
+54
+55
+56
+57
+B
+979148
+AV
+The room my family often get together and watch TV is ___________.
+bedroom
+bathroom
+toilet
+living room
+D
+998890
+GDCD
+Tiet kiem the hien dieu gi o con nguoi?
+The hien su quy trong thanh qua lao dong.
+Xai thoai mai.
+Lam gi minh thich.
+Co lam thi co an.
+A

@@ -1,0 +1,134 @@
+3
+D18CQCN03
+Cong Nghe Thong Tin 3
+N18DCCN033
+Vo Khanh
+Duy
+Nam
+N18DCCN033
+T
+10
+
+N18DCCN036
+Le Phuoc
+Dat
+Nam
+N18DCCN036
+
+N18DCCN039
+Nguyen Duong Hai
+Dang
+Nam
+N18DCCN039
+
+N18DCCN042
+Nguyen Cong
+Dinh
+Nam
+N18DCCN042
+
+N18DCCN045
+Nguyen Van
+Duc
+Nam
+N18DCCN045
+
+N18DCCN126
+Ha Thi
+Mo
+Nu
+N18DCCN126
+T
+10
+
+N18DCCN246
+Tran Quang
+Vinh
+Nam
+N18DCCN126
+
+
+D18CQCN02
+Cong Nghe Thong Tin 2
+N18DCCN018
+To Duc
+Canh
+Nam
+N18DCCN018
+
+N18DCCN021
+Nguyen Trung
+Chanh
+Nam
+N18DCCN021
+
+N18DCCN024
+Nguyen Van
+Chung
+Nam
+N18DCCN024
+L
+10
+
+N18DCCN027
+Nguyen Thi Huyen
+Diu
+Nu
+N18DCCN027
+T
+10
+
+N18DCCN030
+Nguyen Huu Khanh
+Duy
+Nam
+N18DCCN030
+
+
+D18CQCN01
+Cong Nghe Thong Tin 1
+N18DCCN003
+Dang Tuan
+Anh
+Nam
+N18DCCN003
+T
+10
+GDCD
+7.5
+
+N18DCCN006
+Pham Minh Tuan
+Anh
+Nam
+N18DCCN006
+AV
+10
+
+N18DCCN009
+Tran Nhat
+Anh
+Nam
+N18DCCN009
+
+N18DCCN012
+Luong Thai
+Bao
+Nam
+N18DCCN012
+
+N18DCCN015
+Do Tran Thien
+Binh
+Nam
+N18DCCN015
+
+N18DCCN048
+Vo Vu
+Duc
+Nam
+N18DCCN048
+AV
+10
+
+
